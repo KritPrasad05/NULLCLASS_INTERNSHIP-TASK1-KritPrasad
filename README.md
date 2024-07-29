@@ -22,7 +22,7 @@
 
 <h3>Step 1: Clone the Repository</h3>
 <p>First, clone this repository to your local machine using:</p>
-<pre><code>git clone https://github.com/yourusername/translation-app.git
+<pre><code>git clone https://github.com/KritPrasad05/NULLCLASS_INTERNSHIP-TASK1-KritPrasad.git
   
 cd translation-app
 </code></pre>
