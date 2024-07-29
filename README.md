@@ -5,8 +5,11 @@ This project is a simple web application that translates English text into Frenc
 **Table of Contents**
 
 Installation
+
 Usage
+
 Credits
+
 License
 
 **Installation**
