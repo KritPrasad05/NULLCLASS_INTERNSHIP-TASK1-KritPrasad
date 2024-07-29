@@ -55,11 +55,8 @@ torch
     <li>The application will display the translated text in French.</li>
 </ol>
 
-<h2 id="credits">Credits</h2>
-<p>This project was created as part of a task assigned by NullClass. Special thanks to the NullClass organization for the opportunity to work on this project.</p>
-
 <h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project was created as part of a task assigned by NullClass. Special thanks to the NullClass organization for the opportunity to work on this project.</p>
 
 </body>
 </html>
