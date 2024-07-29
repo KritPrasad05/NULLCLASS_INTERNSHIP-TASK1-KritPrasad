@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README for Translation App: English to French</title>
 </head>
 <body>
 
@@ -19,11 +18,11 @@
 </ul>
 
 <h2 id="installation">Installation</h2>
-<p>To run this application, you need to have Python installed on your machine. The recommended version is Python 3.8 or higher.</p>
+<p>To run this application, you must install Python on your machine. The recommended version is Python 3.8 or higher.</p>
 
 <h3>Step 1: Clone the Repository</h3>
 <p>First, clone this repository to your local machine using:</p>
-<pre><code>git clone [https://github.com/yourusername/translation-app.git](https://github.com/KritPrasad05/NULLCLASS_INTERNSHIP-TASK1-KritPrasad.git)
+<pre><code>git clone https://github.com/yourusername/translation-app.git
   
 cd translation-app
 </code></pre>
