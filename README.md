@@ -1,8 +1,8 @@
-**Translation App: English to French**
+<H1>**Translation App: English to French**</H1>
 
 This project is a simple web application that translates English text into French using the MarianMT model from the Hugging Face Transformers library. The app is built with Streamlit for the user interface.
 
-**Table of Contents**
+<h3>**Table of Contents**</h3>
 
 Installation
 
@@ -12,7 +12,7 @@ Credits
 
 License
 
-**Installation**
+<H3>**Installation**</H3>
 
 To run this application, you must install Python on your machine. The recommended version is Python 3.8 or higher.
 
@@ -43,22 +43,27 @@ Install the necessary libraries using pip:
 bash
 
 pip install transformers
+
 pip install streamlit
+
 pip install torch
 
 Step 4: Run the Application
+
 Start the Streamlit application by running:
 
 bash
 
 streamlit run TASK1.py
 
-**Usage**
+<H3>**Usage**</H3>
 
 Open your web browser and go to http://localhost:8501.
-Enter the English text you want to translate in the input box.
+
+You can just enter the English text you want to translate in the input box.
+
 The application will display the translated text in French.
 
-**License**
+<H3>**License**</H3>
 
 This project was created as part of a task assigned by **NullClass**—special thanks to the NullClass organization for the opportunity to work on this project.
