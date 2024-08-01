@@ -36,7 +36,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 <h3>Step 3: Install Dependencies</h3>
 <p>Install the necessary libraries using <code>pip</code>:</p>
 <pre><code>pip install transformers</code></pre>
-<pre><code>pip install streamlit</code>
+<pre><code>pip install streamlit</code></pre>
 <pre><code>pip install torch</code></pre>
 
 <h3>Step 4: Run the Application</h3>
