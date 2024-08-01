@@ -28,20 +28,16 @@ cd translation-app
 </code></pre>
 
 <h3>Step 2: Create a Virtual Environment</h3>
-<p>It's a good practice to use a virtual environment to manage dependencies. You can create a virtual environment using <code>venv</code>:</p>
+<p> Using a virtual environment to manage dependencies is a good practice. You can create a virtual environment using <code>venv</code>:</p>
 <pre><code>python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 </code></pre>
 
 <h3>Step 3: Install Dependencies</h3>
 <p>Install the necessary libraries using <code>pip</code>:</p>
-<pre><code>pip install -r requirements.txt
-</code></pre>
-<p>Create a <code>requirements.txt</code> file with the following content:</p>
-<pre><code>transformers
-streamlit
-torch
-</code></pre>
+<pre><code>pip install transformers</code></pre>
+<pre><code>pip install streamlit</code>
+<pre><code>pip install torch</code></pre>
 
 <h3>Step 4: Run the Application</h3>
 <p>Start the Streamlit application by running:</p>
